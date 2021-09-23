@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XianchengZ
-- 👀 I’m interested in full-stack development, data science, and quantitative finance. 
+- 👀 I’m interested in full-stack development and data science
 <br>    </br>
 - 🌱 I’m currently learning many stuff towards the fields I am interested in...
 - React, Redux, Node, MongoDB, etc for full-stack
