@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @XianchengZ
+### 👋 Hi there, I'm <a href='andrewzang.com' target="_blank">Andrew</a>
+
+### I'm a second year student in the University of Waterloo
+## currently studying computer science and finance (double-major)
+
 - 👀 I’m interested in full-stack development and data science
 <br>    </br>
 - 🌱 I’m currently learning many stuff towards the fields I am interested in...
