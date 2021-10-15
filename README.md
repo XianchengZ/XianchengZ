@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm <a href='andrewzang.com' target="_blank">Andrew</a>
 
 ### I'm a second year student in the University of Waterloo
-## currently studying computer science and finance (double-major)
+## currently major in computer science and finance
 
 - 👀 I’m interested in full-stack development and data science
 <br>    </br>
