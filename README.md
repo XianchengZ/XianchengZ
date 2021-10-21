@@ -11,7 +11,6 @@
 - machine learning for quantitative finance
 <br>    </br>
 
-- I am currently a second year computer science student in the University of Waterloo
 - and I am actively seeking for summer 2022 coop opportunity
 - 📫  Reach me at <a href="https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/" target="_top">My Linkedin</a>
 
