@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm <a href='andrewzang.com' target="_blank">Andrew</a>
+### 👋 Hi there, I'm <a href='http://andrewzang.com' target="_blank">Andrew</a>
 
 ### I'm a second year student in the University of Waterloo
 ## currently major in computer science and finance
