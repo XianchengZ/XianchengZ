@@ -1,16 +1,16 @@
-### 👋 Hi there, I'm <a href='http://andrewzang.com' target="_blank">Andrew</a>
+### 👋 Hi there, I'm <a href='https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/' target="_blank">Andrew</a>
 
-### I'm a second year student in the University of Waterloo
+### I'm a third year student in the University of Waterloo
 ## currently major in computer science and finance
 
-- 👀 I’m interested in full-stack development and data science
+- 👀 I’m interested in full-stack development and Blockchain
 <br>    </br>
 - 🌱 I’m currently learning many stuff towards the fields I am interested in...
 - React, Redux, Node, MongoDB, etc for full-stack
-- Python (Pandas, NumPy, SciPy, Scikit-Learn, etc) and SQL for data science
-- machine learning for quantitative finance
+- Solidity for Blockchain
 <br>    </br>
 
+- I am currently working as a software developer intern in SAP
 - and I am actively seeking for 2023 coop opportunity
 - 📫  Reach me at <a href="https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/" target="_top">My Linkedin</a>
 
