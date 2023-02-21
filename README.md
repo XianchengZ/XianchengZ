@@ -1,7 +1,9 @@
-### 👋 Hi there, I'm <a href='https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/' target="_blank">Andrew</a>
+### 👋 Hi there, I'm Andrew Zang
 
 ### I'm a third year student in the University of Waterloo
-## currently major in computer science and finance
+### currently major in computer science and finance
+
+Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfolio</a> for more details   :)
 
 - 👀 I’m interested in full-stack development and Blockchain
 <br>    </br>
