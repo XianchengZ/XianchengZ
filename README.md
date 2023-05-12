@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Andrew Zang
 
 ### I'm a third year student in the University of Waterloo
-### currently major in computer science and finance
+### currently major in computer science
 
 Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfolio</a> for more details   :)
 
@@ -12,8 +12,7 @@ Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfoli
 - Solidity for Blockchain
 <br>    </br>
 
-- I have worked at BMO and SAP.
-- I am currently working as a software developer intern in Simpplr
+- I have worked at BMO, SAP and Simpplr.
 - and I am actively seeking for 2023 Fall coop opportunity
 - 📫  Reach me at <a href="https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/" target="_top">My Linkedin</a>
 
