@@ -9,11 +9,14 @@ Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfoli
 <br>    </br>
 - 🌱 I’m currently learning many stuff towards the fields I am interested in...
 - Javascript, Typescript for full-stack
-- Solidity for Blockchain
+- Computer Networks
+- Distributed System
+- ~Solidity for Blockchain~ 
 <br>    </br>
 
 - I have worked at BMO, SAP and Simpplr.
-- and I am actively seeking for 2023 Fall coop opportunity
+- I also worked as research assistant in computer networks.
+- and I am actively seeking for 2024 summer coop opportunity
 - 📫  Reach me at <a href="https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/" target="_top">My Linkedin</a>
 
 
