@@ -8,7 +8,7 @@ Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfoli
 - 👀 I’m interested in full-stack development and Blockchain
 <br>    </br>
 - 🌱 I’m currently learning many stuff towards the fields I am interested in...
-- Javascript, Typescript for full-stack
+- Backend Development
 - Computer Networks
 - Distributed System
 - ~Solidity for Blockchain~ 
