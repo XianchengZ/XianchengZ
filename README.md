@@ -14,7 +14,7 @@ Check my <a href='https://www.andrew-zang.com' target="_blank">personal portfoli
 - ~Solidity for Blockchain~ 
 <br>    </br>
 
-- I have worked at BMO, SAP and Simpplr.
+- I have worked at BMO, SAP and Waabi.
 - I also worked as research assistant in computer networks.
 - and I am actively seeking for 2024 summer coop opportunity
 - 📫  Reach me at <a href="https://www.linkedin.com/in/xiancheng-andrew-zang-4178b61b5/" target="_top">My Linkedin</a>
